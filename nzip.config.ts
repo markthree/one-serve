@@ -1,3 +1,3 @@
 export default {
-  skip: [/kv/, /scripts/, /deno.exe/, /.git/, /nzip.config.ts/],
+  skip: [/kv/, /scripts/, /.git/, /nzip.config.ts/],
 };
